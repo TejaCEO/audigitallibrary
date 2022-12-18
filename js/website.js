@@ -16,7 +16,7 @@
                 alert("incorrect username");
             }
             else{
-            window.location="homepage.html";
+            window.location="index.html";
             }
         }
     } 
